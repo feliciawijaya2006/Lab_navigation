@@ -1,6 +1,6 @@
 # Lab_navigation
 Challenge:
--Navigasi Dinamis:
+-Navigasi Dynamic:
 Harus mebuat screen yang jumlahnya tergantung pada input pengguna, dan setiap screen muncul secara terpisah dan setiap screen memiliki tombol kembali yang tetap berfungsi dengan baik tanpa error navigasi.
 -Swipe Gesture:
 Implementasi gesture swipe antar screen menggunakan PageView yang harus responsif dan tidak mengganggu alur navigasi.
@@ -19,7 +19,7 @@ Screen dibuat sesuai jumlah yang dimasukkan pengguna secara real-time tanpa hard
 
 Ringkasan:
 -Main Screen:
-Ada 3 menu utama: Home, Profile, dan Input.
+Ada 2 menu utama: Home dan Ineput.
 Navigasi antara menu dilakukan melalui BottomNavigationBar.
 -Input Screen:
 Meminta pengguna memasukkan angka (jumlah screen yang ingin dibuat).
